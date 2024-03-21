@@ -2,7 +2,7 @@
 
 namespace CP1.Controllers
 {
-    public class AboutController : Controller
+    public class LoginController : Controller
     {
         public IActionResult Index()
         {
